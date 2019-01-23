@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server Programmierung_21012019">
+  <Items>
+    <LogicalFolder Name="Verbindungen" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="BOOM:BOOM\Boss">
+          <Created>2019-01-21T10:28:25.9816112+01:00</Created>
+          <Type>SQL</Type>
+          <Server>BOOM</Server>
+          <UserName />
+          <Authentication>Windows-Authentifizierung</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Abfrage</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Abfragen" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="0001_KOmmentare.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0001_KOmmentare.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0002_Logischer Fluss.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0002_Logischer Fluss.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0003_DBDesign.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0003_DBDesign.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0004_temporäre Tabellen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0004_temporäre Tabellen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0005_Sicht.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0005_Sicht.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0006_Prozeduren.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0006_Prozeduren.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0007_kinstruktionen.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0007_kinstruktionen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0008_indizes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0008_indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="000X_Recap_1.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>000X_Recap_1.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0010_Trigger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0010_Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0011_Sprungmarken.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0011_Sprungmarken.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0012_Überflüssige IX.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0012_Überflüssige IX.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0013_Functions.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0013_Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0014_Salamitaktik.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0014_Salamitaktik.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0015_erweiertes group by.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0015_erweiertes group by.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0016_Maxdop.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0016_Maxdop.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0017_CTE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0017_CTE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0019_Xevents.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0019_Xevents.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0020_TemporalTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0020_TemporalTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0021_untgerschiedliche Datensätze.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0021_untgerschiedliche Datensätze.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0022_PIVOT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0022_PIVOT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0023_XML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>0023_XML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="0400_Cursor.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>0400_Cursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Aufwand einer Transaction.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Aufwand einer Transaction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Index sehen.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Index sehen.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indexberechnung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Indexberechnung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Locks finden.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Locks finden.sql</FullPath>
+        </FileNode>
+        <FileNode Name="sp_BlitzIndex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>sp_BlitzIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2016 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2016 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQL Server 2017 Diagnostic Information Queries.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BOOM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BOOM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQL Server 2017 Diagnostic Information Queries.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Sonstiges" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
